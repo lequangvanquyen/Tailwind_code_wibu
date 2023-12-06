@@ -1,0 +1,17 @@
+{
+  "name": "play-tail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "scripts": {
+    "dev": "npx tailwindcss -i style.css -o ./dist/output.css --watch"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6"
+  }
+}
